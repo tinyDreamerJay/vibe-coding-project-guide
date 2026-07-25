@@ -1,4 +1,4 @@
-# JunJie Project Guide
+# Vibe Coding Project Guide
 
 面向缺少工程经验的开发者，帮助你看懂项目、建立文档，并安全使用 AI 编程助手。
 
@@ -23,7 +23,7 @@
 将本目录安装到你使用的 coding agent 的 Skill 目录，然后调用：
 
 ```text
-$junjie-project-guide
+$vibe-coding-project-guide
 ```
 
 使用时先从简单任务开始：让 agent 只读检查项目、解释现状、提出方案，再确认是否修改。涉及架构、数据、安全、部署或其他高影响选择时，应先讨论方案和利弊。
